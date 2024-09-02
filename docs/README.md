@@ -3,8 +3,8 @@ home: true
 title: Home
 heroImage: https://vuejs.press/images/hero.png
 actions:
-  - text: Get Started
-    link: /getting-started.html
+  - text: Events
+    link: /events/2024-09-event.html
     type: primary
 
   - text: Introduction
