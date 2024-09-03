@@ -12,9 +12,8 @@ export default defineUserConfig({
     logo: '/images/logo.png',
     themePlugins: {
     },
-    home: "/get-started.md",
+    home: "/introduce.md",
     sidebar: [
-      '/get-started.md',
       {
         text: 'Advanced',
         // collapsible: true,
@@ -35,31 +34,7 @@ export default defineUserConfig({
           '/advanced/cookbook/markdown-and-vue-sfc.md',
           '/advanced/cookbook/resolving-routes.md',
         ],
-      },
-      {
-        text: 'Cookbook',
-        children: [
-          '/advanced/cookbook/README.md',
-          '/advanced/cookbook/usage-of-client-config.md',
-          '/advanced/cookbook/adding-extra-pages.md',
-          '/advanced/cookbook/making-a-theme-extendable.md',
-          '/advanced/cookbook/passing-data-to-client-code.md',
-          '/advanced/cookbook/markdown-and-vue-sfc.md',
-          '/advanced/cookbook/resolving-routes.md',
-        ],
-      },
-      {
-        text: 'Cookbook',
-        children: [
-          '/advanced/cookbook/README.md',
-          '/advanced/cookbook/usage-of-client-config.md',
-          '/advanced/cookbook/adding-extra-pages.md',
-          '/advanced/cookbook/making-a-theme-extendable.md',
-          '/advanced/cookbook/passing-data-to-client-code.md',
-          '/advanced/cookbook/markdown-and-vue-sfc.md',
-          '/advanced/cookbook/resolving-routes.md',
-        ],
-      },
+      }
     ]
   }),
 
