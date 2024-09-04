@@ -12,6 +12,8 @@ export default defineUserConfig({
     logo: '/images/logo.png',
     themePlugins: {
     },
+    lastUpdated: false,
+    contributors:false,
     home: "/introduce.md",
     sidebar: [
       {
