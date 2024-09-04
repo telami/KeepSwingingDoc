@@ -14,7 +14,7 @@ export default defineUserConfig({
     },
     lastUpdated: false,
     contributors:false,
-    home: "/introduce.md",
+    home: "/README.md",
     sidebar: [
       {
         text: 'Advanced',
