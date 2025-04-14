@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
-  lang: 'en-US',
+  lang: 'zh-CN',
   host: '0.0.0.0',
   title: 'KeepSwinging',
   description: 'KeepSwinging Docs',
@@ -13,30 +13,16 @@ export default defineUserConfig({
     themePlugins: {
     },
     lastUpdated: false,
-    contributors:false,
+    contributors: false,
     home: "/README.md",
     sidebar: [
       {
-        text: 'Advanced',
+        text: 'FAQ',
         // collapsible: true,
         children: [
-          '/advanced/architecture.md',
-          '/advanced/plugin.md',
-          '/advanced/theme.md',
+          '/faq/index.md',
         ],
       },
-      {
-        text: 'Cookbook',
-        children: [
-          '/advanced/cookbook/README.md',
-          '/advanced/cookbook/usage-of-client-config.md',
-          '/advanced/cookbook/adding-extra-pages.md',
-          '/advanced/cookbook/making-a-theme-extendable.md',
-          '/advanced/cookbook/passing-data-to-client-code.md',
-          '/advanced/cookbook/markdown-and-vue-sfc.md',
-          '/advanced/cookbook/resolving-routes.md',
-        ],
-      }
     ]
   }),
 
