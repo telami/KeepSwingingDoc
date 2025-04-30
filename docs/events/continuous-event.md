@@ -8,6 +8,7 @@
 1. 需要下载「挥拍吧」app ，并在 App Store 里写一份不少于30字的五星好评（提交之前需要截图）。
 
 2. 关注小红书官方账号@[挥拍吧 app](https://www.xiaohongshu.com/user/profile/60e3f2630000000001004bad)
+https://www.xiaohongshu.com/user/profile/60e3f2630000000001004bad
 
 3. 在小红书上发布「挥拍吧」app 的使用体验。
 
@@ -54,6 +55,6 @@
 **如果你本身是有一定影响力的媒体或者 KOL，也欢迎我们联系沟通合作。**
 
 - 电子邮件：hi@telamifly.com
-- [小红书](https://www.xiaohongshu.com/user/profile/60e3f2630000000001004bad)
+- [小红书](https://www.xiaohongshu.com/user/profile/60e3f2630000000001004bad) https://www.xiaohongshu.com/user/profile/60e3f2630000000001004bad
 
 活动解释权归挥拍吧app所有。
